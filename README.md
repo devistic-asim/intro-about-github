@@ -56,6 +56,12 @@ if 2 or more persons working on a same repo in same file. Auto-Merge failed in t
 ```
 ## Github Branches:
 
+                      [Main-Branch]
+                            |
+                [Dev-Branch OR Test-Branch]
+                     |                |
+            [Design-Branch]    [Backend-Branch]
+
 ```
 git checkout {branch name}
 ``` 
