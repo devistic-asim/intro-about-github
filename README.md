@@ -67,4 +67,4 @@ git checkout {branch name}
 ``` 
 
 ## Resources Url:
-* https://mega.nz/folder/N3k0iS5a#PU-jd1KXXoVFh9R2rh4VAA
+* https://www.youtube.com/watch?v=qeXnsqbzBCU&ab_channel=Codanics
